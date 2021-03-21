@@ -1,0 +1,2 @@
+python wheel2.py model/ model_190000.npz small_dataset/ctc_char_map.json -i dsp-dir-3.mp4 -east frozen_east_text_detection.pb 
+
